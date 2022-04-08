@@ -1,0 +1,2 @@
+# OpenBSD
+Catatan Mengenai OpenBSD
